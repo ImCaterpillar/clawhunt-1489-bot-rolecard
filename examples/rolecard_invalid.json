@@ -1,0 +1,12 @@
+{
+  "role_card_version": "1.0",
+  "bot_id": "Bad_ID",
+  "domain": "unknown_domain",
+  "role": {"title": "测试", "purpose": "太短"},
+  "responsibilities": [],
+  "tool_permissions": [
+    {"tool": "nonexistent_tool", "mode": "deny"}
+  ],
+  "extra_field": 123,
+  "metadata": {"note": "纯虚构反例（脱敏样例），仅用于演示校验器拒绝能力，无任何真实数据"}
+}
